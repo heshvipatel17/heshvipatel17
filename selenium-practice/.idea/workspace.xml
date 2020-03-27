@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb7c7d3e-8ef1-4cc6-bab3-c1481c324412" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnyUYfiFgXZCidIItj8gp0KbHq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/prime" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bjrpa\IdeaProjects\selenium-practice\src\prime" />
+      <recent name="C:\Users\bjrpa\IdeaProjects\selenium-practice\src\prime\browsertesting" />
+      <recent name="C:\Users\bjrpa\IdeaProjects\selenium-practice\src" />
+      <recent name="C:\Users\bjrpa\IdeaProjects\selenium-practice\selenium-practice-prime" />
+      <recent name="C:\Users\bjrpa\IdeaProjects\selenium-practice\selenium-practice-prime\src\browsertesting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestMouseOver.mouseHoverExample">
+    <configuration name="FirefoxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="browsertesting.FirefoxTest" />
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFindFirstElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prime.browsertesting.browsertesting.TestFindFirstElement" />
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prime.browsertesting.browsertesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alert" />
+      <option name="MAIN_CLASS_NAME" value="alert.TestAlert" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlert.alertExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alert" />
+      <option name="MAIN_CLASS_NAME" value="alert.TestAlert" />
+      <option name="METHOD_NAME" value="alertExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMouseOver.mouseHoverExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prime.actionclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="prime.actionclass" />
+      <option name="MAIN_CLASS_NAME" value="prime.actionclass.TestMouseOver" />
+      <option name="METHOD_NAME" value="mouseHoverExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMouseOver.mouseHoverExample" />
+        <item itemvalue="JUnit.TestAlert.alertExample" />
+        <item itemvalue="JUnit.TestAlert" />
+        <item itemvalue="Application.TestFindFirstElement" />
+        <item itemvalue="Application.FirefoxTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb7c7d3e-8ef1-4cc6-bab3-c1481c324412" name="Default Changelist" comment="" />
+      <created>1583592668634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583592668634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584791399362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584791399362" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1584873164192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584873164192" />
+    <state width="1493" height="342" key="GridCell.Tab.0.bottom" timestamp="1584887869192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="342" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584887869192" />
+    <state width="1493" height="342" key="GridCell.Tab.0.center" timestamp="1584887869192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="342" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584887869192" />
+    <state width="1493" height="342" key="GridCell.Tab.0.left" timestamp="1584887869192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="342" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584887869192" />
+    <state width="1493" height="342" key="GridCell.Tab.0.right" timestamp="1584887869192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="342" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584887869192" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1584199588071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584199588071" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585139923643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585139923643" />
+    <state x="209" y="40" key="new project wizard" timestamp="1584817522397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="40" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584817522397" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/j_unit/TestFindFirstElement.java</url>
+          <line>11</line>
+          <properties class="j_unit.TestFindFirstElement" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/j_unit/LoginTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/j_unit/LoginTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/j_unit/LoginTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
